@@ -1,0 +1,13 @@
+Generar JSON con https://jsoneditoronline.org/
+Estructura:
+{
+  "1": {
+    "answers": {
+      "1": {
+        "clue": "RESPUESTA 1",
+        "pts": PUNTAJE
+      }
+    }
+    "info":{
+        "title": "PREGUNTA";
+    }

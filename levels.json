@@ -1,0 +1,431 @@
+{
+  "1": {
+    "answers": {
+      "1": {
+        "clue": "Botella",
+        "pts": 15
+      },
+      "2": {
+        "clue": "Beso",
+        "pts": 13
+      },
+      "3": {
+        "clue": "Pájaro",
+        "pts": 12
+      },
+      "4": {
+        "clue": "Herramienta",
+        "pts": 8
+      },
+      "5": {
+        "clue": "Presión/Estrés",
+        "pts": 6
+      },
+      "6": {
+        "clue": "Montaña",
+        "pts": 4
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿En que pensás si te digo \"pico\"?"
+    }
+  },
+  "2": {
+    "answers": {
+      "1": {
+        "clue": "Saco ropa/Zapatos",
+        "pts": 22
+      },
+      "2": {
+        "clue": "Sillón/Tele",
+        "pts": 11
+      },
+      "3": {
+        "clue": "Me ducho",
+        "pts": 8
+      },
+      "4": {
+        "clue": "Como algo",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Abrir vino/ Birra",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Me acuesto a dormir",
+        "pts": 3
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que es lo primero que haces cuando llegas a tu casa cansado de trabajar?"
+    }
+  },
+  "3": {
+    "answers": {
+      "1": {
+        "clue": "King Kong",
+        "pts": 20
+      },
+      "2": {
+        "clue": "Chita",
+        "pts": 13
+      },
+      "3": {
+        "clue": "Jorge el curioso",
+        "pts": 7
+      },
+      "4": {
+        "clue": "Rafiki",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Abú",
+        "pts": 4
+      },
+      "6": {
+        "clue": "Louie",
+        "pts": 3
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Un mono o mona de dibujos animados?"
+    }
+  },
+  "4": {
+    "answers": {
+      "1": {
+        "clue": "Lo dejo pasar",
+        "pts": 18
+      },
+      "2": {
+        "clue": "Le hago señas",
+        "pts": 10
+      },
+      "3": {
+        "clue": "Insulto/ Me enojo",
+        "pts": 9
+      },
+      "4": {
+        "clue": "Cambio posición espejo",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Acelero",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Clavo frenos/Molesto",
+        "pts": 4
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que haces si vas manejando y el de atrás te encandila?"
+    }
+  },
+  "5": {
+    "answers": {
+      "1": {
+        "clue": "Papel",
+        "pts": 22
+      },
+      "2": {
+        "clue": "Pluma",
+        "pts": 18
+      },
+      "3": {
+        "clue": "Globo",
+        "pts": 13
+      },
+      "4": {
+        "clue": "Bolsa de nylon",
+        "pts": 8
+      },
+      "5": {
+        "clue": "Hoja de árbol/planta",
+        "pts": 5
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que soltas desde lo alto y cae muy lento?"
+    }
+  },
+  "6": {
+    "answers": {
+      "1": {
+        "clue": "Pico y Pala",
+        "pts": 19
+      },
+      "2": {
+        "clue": "Máquina excavadora",
+        "pts": 12
+      },
+      "3": {
+        "clue": "Martillo y cincel",
+        "pts": 9
+      },
+      "4": {
+        "clue": "Explosivos",
+        "pts": 7
+      },
+      "5": {
+        "clue": "Taladro",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Las manos",
+        "pts": 3
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que usas para hacer un túnel?"
+    }
+  },
+  "7": {
+    "answers": {
+      "1": {
+        "clue": "Boliche",
+        "pts": 21
+      },
+      "2": {
+        "clue": "Colegio",
+        "pts": 11
+      },
+      "3": {
+        "clue": "Shopping",
+        "pts": 9
+      },
+      "4": {
+        "clue": "Cine/ Teatro",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Médico / Dentista",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Gym/ Club",
+        "pts": 4
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "Completa la frase: Soy el chofer de mi hij@ adolescente... Ahora lo tengo que ir a buscar al ____"
+    }
+  },
+  "8": {
+    "answers": {
+      "1": {
+        "clue": "¡Llegué!",
+        "pts": 34
+      },
+      "2": {
+        "clue": "¿Hay alguien?",
+        "pts": 32
+      },
+      "3": {
+        "clue": "¡Hola!",
+        "pts": 18
+      },
+      "4": {
+        "clue": "¿Qué comemos?",
+        "pts": 6
+      },
+      "5": {
+        "clue": null,
+        "pts": 0
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que decis o preguntas cuando llegas a tu casa?"
+    }
+  },
+  "9": {
+    "answers": {
+      "1": {
+        "clue": "Congestión nasal",
+        "pts": 26
+      },
+      "2": {
+        "clue": "Fiebre",
+        "pts": 17
+      },
+      "3": {
+        "clue": "Dolor",
+        "pts": 13
+      },
+      "4": {
+        "clue": "Decaimiento",
+        "pts": 10
+      },
+      "5": {
+        "clue": "Tos",
+        "pts": 8
+      },
+      "6": {
+        "clue": "Estornudos",
+        "pts": 7
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Como te das cuenta que te estás por engripar?"
+    }
+  },
+  "10": {
+    "answers": {
+      "1": {
+        "clue": "Hojas/Flroes/Pasto",
+        "pts": 31
+      },
+      "2": {
+        "clue": "Agua",
+        "pts": 23
+      },
+      "3": {
+        "clue": "Mano",
+        "pts": 16
+      },
+      "4": {
+        "clue": "Pieles",
+        "pts": 9
+      },
+      "5": {
+        "clue": "Arena/Tierra",
+        "pts": 5
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Como se limpiaban los cavernícolas después de \"lo segundo\"?"
+    }
+  },
+  "11": {
+    "answers": {
+      "1": {
+        "clue": "Más fácil estacionar",
+        "pts": 36
+      },
+      "2": {
+        "clue": "Menos gastos",
+        "pts": 29
+      },
+      "3": {
+        "clue": "Bajo perfil/ discreción",
+        "pts": 14
+      },
+      "4": {
+        "clue": "Ando solo/ Sin familia",
+        "pts": 10
+      },
+      "5": {
+        "clue": null,
+        "pts": 0
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Porque preferirias un auto chico en vez de un auto grande?"
+    }
+  }
+}
