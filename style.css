@@ -147,7 +147,7 @@ body {
 }
 
 .flip-card.empty>.flip-card-inner>.flip-card-front{
-  background-image: none;
+  background-image: none !important;
   color: transparent;
-  background-color: #001333;
+  background-color: #001333 !important;
 }
