@@ -87,9 +87,11 @@ function loadLevel(id) {
         if(level[i].clue == null){
             //add class empty
             document.getElementById(i).classList.add("empty");
+            document.getElementById("bg-"+i).classList.add("empty");
         }else{
             //remove class empty
             document.getElementById(i).classList.remove("empty");
+            document.getElementById("bg-"+i).classList.remove("empty");
         }
         document.getElementById(i+'_answer').innerHTML = level[i].clue;
         document.getElementById(i+'_number').innerHTML = level[i].pts;
