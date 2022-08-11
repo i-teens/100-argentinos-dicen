@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'Typograph';
+  src: url("typograph-pro-extrabold.ttf");
+}
+
 * {
     box-sizing: border-box;
     transition: transform 0.6s;
+    font-family: typograph;
 }
   
 body {
@@ -132,7 +138,7 @@ body {
 }
 .board{
   flex-grow: 1;
-  font-size: 4em;
+  font-size: 3em;
   font-weight: bold;
   perspective: 1000px;
   text-align: center;
