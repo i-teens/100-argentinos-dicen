@@ -149,4 +149,5 @@ body {
 .flip-card.empty>.flip-card-inner>.flip-card-front{
   background-image: none;
   color: transparent;
+  background-color: #001333;
 }
