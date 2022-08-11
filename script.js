@@ -4,7 +4,8 @@ control = window.open("control.html", "_blank", "width=540,height=600,location=n
 // create function that looks up id and adds class selected
 function select(id) {
     points = parseInt(document.getElementById(id+"_number").innerHTML);
-
+    var audio = new Audio('correct.mp3');
+    audio.play();
     //if element has class
     if (document.getElementById(id).classList.contains("selected")) {
         //remove class
@@ -17,6 +18,7 @@ function select(id) {
         score('c', score('c') + points, true);
         return true;
     }
+    
 }
 
 
